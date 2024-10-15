@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NYU MS EE/Sem-III/AHD/AHD PROJECT MILESTONE 2 RESUBMISSION/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NYU MS EE/Sem-III/AHD/AHD PROJECT MILESTONE 2 RESUBMISSION/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412.srcs/sources_1/new/CntUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CntUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NYU MS EE/Sem-III/AHD/AHD PROJECT MILESTONE 2 RESUBMISSION/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412.srcs/sources_1/new/DMEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DMEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NYU MS EE/Sem-III/AHD/AHD PROJECT MILESTONE 2 RESUBMISSION/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412.srcs/sources_1/new/Data_Ext.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Data_Ext
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NYU MS EE/Sem-III/AHD/AHD PROJECT MILESTONE 2 RESUBMISSION/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412.srcs/sources_1/new/Decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NYU MS EE/Sem-III/AHD/AHD PROJECT MILESTONE 2 RESUBMISSION/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412.srcs/sources_1/new/INS_MEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module INS_MEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NYU MS EE/Sem-III/AHD/AHD PROJECT MILESTONE 2 RESUBMISSION/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412.srcs/sources_1/new/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NYU MS EE/Sem-III/AHD/AHD PROJECT MILESTONE 2 RESUBMISSION/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412.srcs/sources_1/new/ProcessorTopModule.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProcessorTopModule
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NYU MS EE/Sem-III/AHD/AHD PROJECT MILESTONE 2 RESUBMISSION/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412.srcs/sources_1/new/branch_comparator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BranchComparator
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NYU MS EE/Sem-III/AHD/AHD PROJECT MILESTONE 2 RESUBMISSION/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412.srcs/sources_1/new/immediateExtender.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module immediateExtender
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NYU MS EE/Sem-III/AHD/AHD PROJECT MILESTONE 2 RESUBMISSION/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412.srcs/sources_1/new/registerFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module registerFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NYU MS EE/Sem-III/AHD/AHD PROJECT MILESTONE 2 RESUBMISSION/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412/AHD_PROJECT_MILESTONE_2_sc9948_rg4346_dt2412.srcs/sim_1/new/Processor_TopModule_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Processor_TopModule_TB
